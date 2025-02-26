@@ -77,3 +77,6 @@ To address these challenges, several data-driven solutions were implemented:
 This case study highlights how **data analytics transformed Lead Prosper’s lead management strategy**. By identifying inefficiencies, optimizing profitable campaigns, and implementing **real-time data-driven solutions**, the company significantly improved its **performance and revenue generation**.  
 
 Moving forward, continuous **performance tracking, strategic decision-making, and optimization** will ensure that **Lead Prosper remains an industry leader**. 🚀
+
+**Report Link:** 
+**Dashboards Link Here:** https://1drv.ms/x/c/d965216d2ae107e9/EV5w9WQZzB9Enr0ibvItlo0Bw388P7mmDkEYBT1rbbGW0w?e=XGi5lY
