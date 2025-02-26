@@ -78,6 +78,6 @@ This case study highlights how **data analytics transformed Lead Prosper’s lea
 
 Moving forward, continuous **performance tracking, strategic decision-making, and optimization** will ensure that **Lead Prosper remains an industry leader**. 🚀
 
-**Report Link:** https://github.com/AbuSufian-org/Lead-Prosper-Data-Analysis-Optimizing-Lead-Buying-Selling-with-Data-Driven-Insights/blob/main/Analysis3_Lead%20Prosper_PDF_Report_Mar2024%20to%20Dec2024_LP_Accounting.pdf
+**Report Link:**  https://github.com/AbuSufian-org/Lead-Prosper-Data-Analysis-Optimizing-Lead-Buying-Selling-with-Data-Driven-Insights/blob/main/Analysis3_Lead%20Prosper_PDF_Report_Mar2024%20to%20Dec2024_LP_Accounting.pdf
 
-**Dashboards Link Here:** https://1drv.ms/x/c/d965216d2ae107e9/EV5w9WQZzB9Enr0ibvItlo0Bw388P7mmDkEYBT1rbbGW0w?e=XGi5lY
+**Dashboards Link Here:**  https://1drv.ms/x/c/d965216d2ae107e9/EV5w9WQZzB9Enr0ibvItlo0Bw388P7mmDkEYBT1rbbGW0w?e=XGi5lY
