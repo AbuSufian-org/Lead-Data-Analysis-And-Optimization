@@ -28,7 +28,7 @@ Through data analysis, several crucial insights emerged:
 
 **High Sales, Low Conversions:** – Although lead purchases peaked in **May, June, July, and August**, conversion rates were inconsistent, requiring deeper campaign analysis.  
 
-**Top-Performing Companies:**  
+## *Top-Performing Companies:*  
 - **Porch 5 and ETN America:** generated **1863% and 1833% ROI**, respectively, making them the most profitable.  
 - **All Three Ships** led in lead transactions but struggled with profitability, indicating potential inefficiencies.  
 
