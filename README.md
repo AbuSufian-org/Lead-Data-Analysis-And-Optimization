@@ -1,5 +1,5 @@
-**Lead-Prosper-Data-Analysis-Optimizing-Lead-Buying-Selling-with-Data-Driven-Insights**
-#### This is a real-world project.
+## Lead-Prosper-Data-Analysis-Optimizing-Lead-Buying-Selling-with-Data-Driven-Insights
+#### *This is a real-world project.*
 
 **COMPANY OVERVIEW** 
 
