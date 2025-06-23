@@ -26,7 +26,7 @@ Although Lead Prosper successfully acquired and sold leads, some inefficiencies 
 
 Through data analysis, several crucial insights emerged:  
 
-**High Sales, Low Conversions:* – Although lead purchases peaked in **May, June, July, and August**, conversion rates were inconsistent, requiring deeper campaign analysis.  
+### *High Sales, Low Conversions:* – Although lead purchases peaked in **May, June, July, and August**, conversion rates were inconsistent, requiring deeper campaign analysis.  
 
 ### *Top-Performing Companies:*  
 - **Porch 5 and ETN America:** generated **1863% and 1833% ROI**, respectively, making them the most profitable.  
