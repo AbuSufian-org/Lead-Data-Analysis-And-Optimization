@@ -8,6 +8,7 @@ Lead Prosper is a **lead management platform** that enhances sales and revenue b
 <img width="878" alt="Image" src="https://github.com/user-attachments/assets/7e160f6b-820c-4d0d-8165-913487676818" />
 
 **Dashboard** [View Full Excel Dashboard](https://1drv.ms/x/c/d965216d2ae107e9/EV5w9WQZzB9Enr0ibvItlo0Bw388P7mmDkEYBT1rbbGW0w?e=XGi5lY)
+**Report** [View Full Project with Charts](https://github.com/AbuSufian-org/Lead-Prosper-Data-Analysis-Optimizing-Lead-Buying-Selling-with-Data-Driven-Insights/blob/main/Analysis3_Lead%20Prosper_PDF_Report_Mar2024%20to%20Dec2024_LP_Accounting.pdf)
 ---  
 
 **CHALLENGES**  
@@ -80,8 +81,19 @@ To address these challenges, several data-driven solutions were implemented:
 
 This case study highlights how **data analytics transformed Lead Prosper’s lead management strategy**. By identifying inefficiencies, optimizing profitable campaigns, and implementing **real-time data-driven solutions**, the company significantly improved its **performance and revenue generation**.  
 
-Moving forward, continuous **performance tracking, strategic decision-making, and optimization** will ensure that **Lead Prosper remains an industry leader**. 🚀
+Moving forward, continuous **performance tracking, strategic decision-making, and optimization** will ensure that **Lead Prosper remains an industry leader**.
 
-**Report Link:**  https://github.com/AbuSufian-org/Lead-Prosper-Data-Analysis-Optimizing-Lead-Buying-Selling-with-Data-Driven-Insights/blob/main/Analysis3_Lead%20Prosper_PDF_Report_Mar2024%20to%20Dec2024_LP_Accounting.pdf
+**Report Link:** [View Full Project with Charts](https://github.com/AbuSufian-org/Lead-Prosper-Data-Analysis-Optimizing-Lead-Buying-Selling-with-Data-Driven-Insights/blob/main/Analysis3_Lead%20Prosper_PDF_Report_Mar2024%20to%20Dec2024_LP_Accounting.pdf)
 
-**Dashboards Link Here:**  https://1drv.ms/x/c/d965216d2ae107e9/EV5w9WQZzB9Enr0ibvItlo0Bw388P7mmDkEYBT1rbbGW0w?e=XGi5lY
+**Dashboards Link Here:** [](https://1drv.ms/x/c/d965216d2ae107e9/EV5w9WQZzB9Enr0ibvItlo0Bw388P7mmDkEYBT1rbbGW0w?e=XGi5lY)
+
+---
+
+## 🧑‍💻 About Me
+
+I'm **Abu Sufian**, a data analyst passionate about using data to solve real-world problems.  
+If you enjoyed this project or want to collaborate—let’s connect!
+
+🔗 [LinkedIn](https://www.linkedin.com/in/abusufianorg/)  
+📧 abusufianorg@gmail.com  
+📊 [My Portfolio](https://github.com/AbuSufian-org/)
