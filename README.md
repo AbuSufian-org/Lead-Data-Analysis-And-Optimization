@@ -1,12 +1,13 @@
 ## Lead-Prosper-Data-Analysis-Optimizing-Lead-Buying-Selling-with-Data-Driven-Insights
 ### *This is a real-world project.*
 ---
-<img width="878" alt="Image" src="https://github.com/user-attachments/assets/7e160f6b-820c-4d0d-8165-913487676818" />
-
 **COMPANY OVERVIEW** 
 
 Lead Prosper is a **lead management platform** that enhances sales and revenue by connecting businesses with **high-quality leads**. The company plays a crucial role in the industry by facilitating smooth lead transactions between buyers and sellers. However, despite its strong market presence, Lead Prosper faced challenges in **identifying the most profitable campaigns, improving conversion rates, and maximizing ROI**.  
 
+<img width="878" alt="Image" src="https://github.com/user-attachments/assets/7e160f6b-820c-4d0d-8165-913487676818" />
+
+**Dashboard** [View Full Excel Dashboard](https://1drv.ms/x/c/d965216d2ae107e9/EV5w9WQZzB9Enr0ibvItlo0Bw388P7mmDkEYBT1rbbGW0w?e=XGi5lY)
 ---  
 
 **CHALLENGES**  
