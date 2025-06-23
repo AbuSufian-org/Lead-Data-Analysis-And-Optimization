@@ -1,5 +1,7 @@
 ## Lead-Prosper-Data-Analysis-Optimizing-Lead-Buying-Selling-with-Data-Driven-Insights
 ### *This is a real-world project.*
+---
+<img width="878" alt="Image" src="https://github.com/user-attachments/assets/7e160f6b-820c-4d0d-8165-913487676818" />
 
 **COMPANY OVERVIEW** 
 
@@ -22,21 +24,21 @@ Although Lead Prosper successfully acquired and sold leads, some inefficiencies 
 
 Through data analysis, several crucial insights emerged:  
 
-📌 **High Sales, Low Conversions** – Although lead purchases peaked in **May, June, July, and August**, conversion rates were inconsistent, requiring deeper campaign analysis.  
+**High Sales, Low Conversions** – Although lead purchases peaked in **May, June, July, and August**, conversion rates were inconsistent, requiring deeper campaign analysis.  
 
-📌 **Top-Performing Companies**  
+**Top-Performing Companies**  
 - **Porch 5 and ETN America** generated **1863% and 1833% ROI**, respectively, making them the most profitable.  
 - **All Three Ships** led in lead transactions but struggled with profitability, indicating potential inefficiencies.  
 
-📌 **Underperforming Companies**  
+**Underperforming Companies**  
 - **Madrivo** showed strong growth despite being in the bottom five in lead volume.  
 - **Apollo Interactive** had the lowest lead activity, signaling a need for performance improvement.  
 
-📌 **Winning Campaigns**  
+**Winning Campaigns**  
 - **Roofing** was the most profitable campaign, generating **$3,090,858 in profit** with an **ROI of 3695%**.  
 - **Windows** followed with **$2,201,783 in profit** and an **ROI of 2207%**.  
 
-📌 **Struggling Campaigns**  
+**Struggling Campaigns**  
 - **Auto Campaign** had a **low ROI of 33%** and minimal profit.  
 - **Pest Control**, though having the lowest revenue, achieved a **high ROI of 1574%**.  
 
